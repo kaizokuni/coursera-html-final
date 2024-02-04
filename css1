@@ -1,0 +1,42 @@
+body{
+	background:#FFFFFF;
+	font-size: 125%;
+}
+
+header{
+	background: #B2B2B2;
+}
+
+h1{
+	color: #FFFFFF;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 200%;
+}
+
+nav{
+	font-variant: normal;
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 90%;
+	text-align: left;
+}
+
+h2{
+	color: #000080;
+	text-transform: uppercase;
+	font-size: 140%;
+}
+
+a{
+	background: #C5C5C5;
+	color: #000000;
+}
+
+section{
+	font-style: normal;
+	background: #7F7F7F;
+}
+
+aside{
+	display: none;
+}
